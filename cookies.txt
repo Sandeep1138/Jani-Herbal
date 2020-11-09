@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+store.jiva.com	TRUE	/	FALSE	1999999999	PHPSESSID	4kk93fd8n55f73fh0hscc5o029
+store.jiva.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+store.jiva.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_98e4563c7aaf505563c4c8e8ecbd2116	f0d6446137e0725a916cad8a9c758e64%7C%7C1604931801%7C%7C1604928201%7C%7C9270cc8e9c3ffd52a20df837b5df461f
+store.jiva.com	TRUE	/	FALSE	1999999999	admitaduid	deleted
+store.jiva.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	44fcbe696b4a79dadedcb20caa5aed83
+
