@@ -1,0 +1,16 @@
+ddl/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .pisol_buy_now_button{
+    margin: auto !important;
+    width: auto !important;
+    background: #007236 !important;
+    height: 33px !important;
+    border: 1px solid #007236 !important;
+    color: #FFF !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    border-radius: 4px !important;
+	 
+}
